@@ -9,11 +9,11 @@ A python utility to sync up a csv of username's and passwords to Google Apps
 
 ### Setup Instructions for Mac ###
 1. Install a newer version of python
-  brew install python
+    brew install python
 2.Restart your terminal to load up the new version of python 
-  relaunch terminal
+    relaunch terminal
 3. Use pip to install the required Google Data Libraries  
-  pip install gdata
+    pip install gdata
 
 ### Usage Instructions ###
 1. Create your CSV file in the format of "username,password". You can do this in excel using a column for username and the next
