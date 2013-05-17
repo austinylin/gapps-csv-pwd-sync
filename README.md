@@ -8,6 +8,8 @@ A python utility to sync up a csv of username's and passwords to Google Apps
 * Google Data Libraries ( pip install gdata )
 
 ### Setup Instructions for Mac ###
+0. Install homebrew. See: http://mxcl.github.io/homebrew/
+
 1. Install a newer version of python:
 
         brew install python
