@@ -14,11 +14,9 @@ A python utility to sync up a csv of username's and passwords to Google Apps
 
         brew install python
       
-2. Restart your terminal to load up the new version of python:
+2. Restart your terminal to load up the new version of python.
 
-        relaunch terminal
-
-3. Use pip to install the required Google Data Libraries 
+3. Use pip to install the required Google Data Libraries:
 
         pip install gdata
 
